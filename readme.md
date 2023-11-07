@@ -1,5 +1,7 @@
 "Simple Weather-App" is a minimalistic weather condition tracker that leverages the Open Weather API to provide real-time weather data for a specified location. It offers a straightforward user interface for checking the current weather, including details like temperature and humidity. Built using HTML, CSS, and JavaScript, this project focuses on simplicity and practicality, making it a perfect choice for those seeking a no-frills weather app.
 
+live preview : https://evanderzzstudio.github.io/Weather-App/
+
 Features
 Displays weather information based on user input.
 Uses HTML for the structure, CSS for styling, and JavaScript for functionality.
